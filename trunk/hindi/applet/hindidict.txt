@@ -1,0 +1,373 @@
+good|अच्छा
+cupboard|अलमारी
+man|आदमी
+you|आप
+and|और
+one|एक
+room|कमरा
+quite|काफी 
+chair|कुर्सी
+why|क्यों
+vacant,empty|खाली
+window|खिड़की
+car|कार
+uncle|चाचा
+bird|चिड़िया,पक्षी
+small|छोटा
+of course,sure|ज़रूर ,अवश्य
+no|नहीं
+yes|हाँ
+ok|ठीक है
+grandmother|दादी
+another,other|दूसरा,अन्य
+both|दोनों
+hello|हैलो
+not|नहीं
+fan|पंखा
+stone|पत्थर
+bed|पलंग,बिस्तर
+father|पिता
+old|पुराना,वृद्ध
+copy|प्रति,नकल
+garden|बगीचा,उद्यान
+child|बच्चा
+big|बड़ा
+very|बहुत
+daughter in law|बहू
+elderly,old|बूढा
+language|भाषा
+house|मकान
+mother|माता
+human|मानव,इंसान
+statue|मूति॔,प्रतिमा
+table|मेज
+this|यह
+here|यहां
+these|ये
+king|राजा
+boy|लड़का
+girl|लड़की
+red|लाल
+people|लोग
+that|वह
+they|वे
+thank you|शुक्रिया,धन्यवाद
+white|सफ़ेद
+bicycle|साइकिल
+clean|साफ़
+only|सिर्फ,केवल
+beautiful|सुंदर
+we|हम
+airy|हवादार
+yes|हाँ
+newspaper|समाचार पत्र,अखबार
+teacher|शिक्षक,अध्यापक
+right now|अभी
+today|आज
+and|और
+paper|कागज
+how much|कितना
+book|पुस्तक,किताब
+please|कृपया
+how|कैसे
+who|कौन
+what|क्या
+why|क्यों
+because|क्योंकि
+bad|बुरा,खराब
+happy|खुश
+dirty|गंदा
+sandal|चप्पल
+letter|पत्र,चिट्ठी
+student|छात्र
+female student|छात्रा
+answer|जवाब 
+reply|उत्तर
+shoe|जूता
+most,mostly|अधिकतर,ज़्यादातर 
+thin|पतला,दुबला
+slight build|दुबला-पतला
+thank you|धन्यवाद
+not|नहीं
+good bye|अलविदा
+hello|नमस्ते
+new|नया
+angry|नाराज़ ,गुस्सा
+nine|नौ
+but|पर,परन्तु
+upset,troubled|परेशान,बिगड़ा हुआ
+five|पाँच
+mad|पागल
+pollution|प्रदूषण
+sister|बहन
+thing,matter|बात,वस्तु
+completely,absolutely|बिलकुल ,पूरी तरह से
+not at all|बिल्कुल नहीं
+ill|बीमार
+son|बेटा
+daughter|बेटी
+brother|भाई
+also|भी
+expensive|महँगा
+Do not know,dont know|मालुम नहीं ,नहीं जानता
+kindness,please|मेहरबानी ,दयालुता
+madam|मैडम ,महोदया
+fat|मोटा
+weather|मौसम
+or|या
+ramayan|रामायण
+tall|लंबा
+dictionary|शब्दकोश
+strict|सख़्त,कड़ी
+all,everything|सब
+sir|सर,श्रीमान
+question|सवाल
+cheap|सस्ता
+monday|सोमवार
+sixteen|सोलह
+air|हवा
+condition,state|हाल
+hindi|हिन्दी
+now|अब
+your,yours|आपका
+rest|आराम
+comfortably|आराम से
+glasses|चश्मा,ऐनक
+cloth|कपड़ा
+pen|कलम
+black|काला
+what|क्या
+who|कौन
+well|अच्छा
+village|गांव
+bathroom|गुसलखाना,स्नानघर
+house|मकान
+home|घर
+four|चार
+thing,object|चीज़,वस्तु
+six|छः
+upto,as far as|तक
+health|तबियत,स्वास्थ्य
+picture|चित्र
+photo|तस्वीर
+yours|तुम्हारा
+door|दरवाजा
+drawer|दराज
+mat,rug|दरी,चटाई
+ten|दस
+wall|दीवार
+husband|पति
+wife|पत्नी
+no|नहीं
+curtain|परदा,पर्दा
+family|परिवार
+floor|फर्श
+bus|बस
+lots of|बहुत सारा
+india|भारत
+mine|मेरा
+in|में
+from|से
+from,among,out of|में से
+kitchen|रसोईघर
+night|रात,रात्रि
+hey|अरे
+etc,and so on|वगैरह,आदि
+there|वहाँ
+town,city|शहर,कस्बा
+perhaps|शायद
+time|समय
+furniture,luggage,things|सामान,फर्नीचर
+whole|सारा,संपूर्ण
+morning|सुबह
+by,since,from,with|से
+alone|अकेला
+Sorry,regret|अफ़सोस,खेद
+age|उम्र,आयु
+absolutely,completely|एकदम,पूरी तरह से
+more,and|और
+less|कम
+tomorrow|कल
+work|काम
+nothing|कुछ नहीं
+food|खाना,भोजन
+happiness|खुशी
+beautiful|ख़ूबसूरत,सुंदर
+hot|गरम
+tablet|गोली
+at home|घर पर
+silver|चांदी
+uncle|चाचा
+tea|चाय
+cold(disease)|ज़ुकाम
+more|अधिक
+cool|ठंडा,शीतल
+office|दफ़तर,कार्यालय
+lentils|दाल
+shop|दुकान
+friend|मित्र
+neighbor|पड़ोसी
+liked|पसंद
+previously|पहले
+mountain|पहाड़
+lovely|प्यारा
+dear|प्रिय
+closed|बंद
+market|बाजार
+children|बच्चे
+outside|बाहर
+fever|बुखार
+strong|मजबूत
+mean,meaning|मतलब
+palace|महल
+know|मालूम
+friend|मित्र	
+hardworking|मेहनती
+relative|रिश्तेदार
+abroad|विदेश
+year|साल
+gold|सोना
+hundred|सौ
+clever|होशियार,चतुर
+come|आना
+here|इधर
+there|उधर
+sage|ऋषि
+blanket|कंबल
+to do|करना
+say|कहना
+dog|कुत्ता
+letter|ख़त,पत्र
+opinion,care|ख़याल,राय
+eat|खाना
+treat,serve food|खिलाना
+toy|खिलौना
+horse|घोड़ा
+move|चलना
+key|चाबी
+touch|छूना,संपर्क
+wake up|जगाना
+just,a little|ज़रा
+quickly|जल्दी
+go|जाना
+quarrel|झगड़ा
+to quarrel|झगड़ा करना
+wait,stay|ठहरना
+find|ढूँढना
+ready|तैयार
+bag|थैला
+milk|दूध
+look|देखना
+give|देना
+husband's younger brother|देवर
+wash|धोने
+washerman|धोबी
+attention|ध्यान
+attentively|ध्यान से
+slogan|नारा
+servant|नौकर
+lying(like lying on table)|पडा 
+read|पढ़ना
+water|पानी
+father|पिता
+drink|पीना
+ask|पूछना
+tree|पेड़
+money|पैसा
+fruit|फल
+close|बंद करना
+tell|बताना
+call|बुलाना
+sit|बैठो
+speak|बोलना
+brother|भैय्या,भाई
+hit|मारना
+keep|रखना
+bring|लाना
+write|लिखना
+receive,take|लेना
+really|सचमुच,वास्तव में
+simple|सरल
+clean|साफ करना
+listen|सुनना
+become|होना
+loneliness|अकेलापन
+often,Usually|अक्सर 
+one's own|अपना
+twenty one|इक्कीस
+pronunciation|उच्चारण
+rise,to get up|उठना
+nineteen|उन्नीस
+sometimes|कभी कभी
+never|कभी नहीं
+towards|की तरफ
+like, similar|की तरह 
+inside|अंदर
+in front of,ahead of|के आगे
+on top of|के ऊपर 
+beneath|के नीचे
+before|के/से पहले
+near|के पास
+behind|के पीछे
+after|के बाद
+about|के बारे में
+outside|के बाहर
+at the place of|के यहाँ
+for|के लिए
+with, in company of|के साथ
+facing,opposite|के सामने
+to take care of|ध्यान रखना,ख्याल रखना
+a lot,well|खूब
+gossip|गपशप
+meat|गोश्त
+moon|चांद
+silent|चुप
+fourteen|चौदह
+to leave|छोड़ना
+to know|जानना
+piece,bit|टुकड़ा
+to fear|डरना
+post office|डाकघर
+a little|थोड़ा
+day|दिन
+all day|दिन भर
+hate,dislike|नफरत, नापसंद
+to dislike|नापसंद करना
+love,affection|प्यार, स्नेह
+to love|प्यार करना
+then;again|फिर
+childhood|बचपन
+o' clock|बजे
+congratulation|बधाई
+to talk,converse|बात करना
+father|पिता
+twelve|बारह
+mind|मन
+to feel,experience|महसुस करना
+boss|मालिक
+munna|मुन्न
+difficult|मुश्किल
+guest|मेहमान
+height,length|लंबाई
+script|लिपि
+wonderful|वाह
+foreigner|विदेशी,परदेशी
+actually,by the way|वैसे
+sarcasm|व्यंगय
+alcoholic,liquor|शराब
+mischief|शरारत
+friday|शुक्रवार
+pure,unmixed|शुद्ध
+sanskrit|संस्कृत
+girl's female friend|सहेली
+sari|साड़ी
+year|साल
+to learn|सीखना
+to think|सोचना
+to sleep|सोना
+station|स्टेशन
+to laugh|हँसने
+to make laugh|हँसाना
+our,ours|हमारा
+always|हमेशा
+promising|होनहार
